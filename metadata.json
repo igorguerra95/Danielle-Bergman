@@ -1,0 +1,6 @@
+{
+  "name": "Danielle Bergmann | Psicóloga",
+  "description": "Psicoterapia humanizada e especializada em ansiedade, depressão, terapia de casal e desenvolvimento pessoal. Atendimento presencial e online em todo o Brasil.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
